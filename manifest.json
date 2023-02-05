@@ -1,0 +1,13 @@
+{
+  "files": {
+    "material-icons.html": {
+      "convertedUrl": "materialicons.js",
+      "exports": {}
+    },
+    "index.html": null,
+    "demo/index.html": {
+      "convertedUrl": "demo/index.html",
+      "exports": {}
+    }
+  }
+}

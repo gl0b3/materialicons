@@ -1,0 +1,35 @@
+{
+  "name": "@gl0b3/materialicons",
+  "version": "1.0.0",
+  "description": "Iron iconset based on MaterialIcons",
+  "main": "materialicons.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gl0b3/materialicons.git"
+  },
+  "scripts": {
+    "format": "webmat"
+  },
+  "author": "Károly Kótay-Szabó",
+  "license": "Apache-2.0",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/gl0b3/materialicons/issues"
+  },
+  "homepage": "https://github.com/gl0b3/materialcons#readme",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.2"
+  },
+  "dependencies": {
+    "@polymer/iron-icon": "3.0.1",
+    "@polymer/iron-iconset-svg": "3.0.1",
+    "@polymer/polymer": "^3.0.0"
+  }
+}
