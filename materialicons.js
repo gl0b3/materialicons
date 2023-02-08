@@ -1,3 +1,4 @@
+import '@vaadin/icon';
 import '@vaadin/icon/vaadin-iconset.js';
 
 const template = document.createElement('template');

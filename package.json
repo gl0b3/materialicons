@@ -2,12 +2,15 @@
   "name": "@gl0b3/materialicons",
   "version": "2.0.0",
   "description": "Iron iconset based on MaterialIcons",
+  "type": "module",
   "main": "materialicons.js",
+  "module": "materialicons.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gl0b3/materialicons.git"
   },
   "scripts": {
+    "start": "web-dev-server",
     "format": "webmat"
   },
   "author": "Károly Kótay-Szabó",

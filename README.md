@@ -1,6 +1,6 @@
 # Material Icons based on Vaadin Iconset
 
-[Material Icons](https://github.com/gl0b3/materialicons) version 1.0.0 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons) used by [Lit](https://github.com/lit/lit).
+[Material Icons](https://github.com/gl0b3/materialicons) version 2.0.0 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
 
 ## Usage
 
