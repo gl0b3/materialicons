@@ -5,8 +5,8 @@
       "exports": {}
     },
     "index.html": null,
-    "demo/index.html": {
-      "convertedUrl": "demo/index.html",
+    "build/index.html": {
+      "convertedUrl": "build/index.html",
       "exports": {}
     }
   }

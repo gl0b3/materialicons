@@ -84,7 +84,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         var svgs = document.querySelectorAll('g[id]');
         let ironIconsContent = '<h2>Material Icons</h2>';
         for (let i = 0; i < svgs.length; i++) {
-          ironIconsContent += '<span class="container"><iron-icon icon="materialicons:' + svgs[i].id + '"></iron-icon><div>materialicons:' + svgs[i].id +'</div></span>';
+          ironIconsContent += '<span class="container"><vaadin-icon icon="materialicons:' + svgs[i].id + '"></vaadin-icon><div>materialicons:' + svgs[i].id +'</div></span>';
         }
         myApp.innerHTML = ironIconsContent;
       }, false);
@@ -122,7 +122,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       .container:hover > div {
         color: #3382BF;
       }
-      iron-icon {
+      vaadin-icon {
         transition: all 0.2s;
         -webkit-transition: all 0.2s;
       }
@@ -130,7 +130,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   </head>
   <body>
     <my-app>
-      <iron-icon icon="materialicons:refresh"></iron-icon>
+      <vaadin-icon icon="materialicons:refresh"></vaadin-icon>
     </my-app>
     <noscript>
       Please enable JavaScript to view this website.
