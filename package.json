@@ -1,6 +1,6 @@
 {
   "name": "@gl0b3/materialicons",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Iron iconset based on MaterialIcons",
   "type": "module",
   "main": "materialicons.js",
