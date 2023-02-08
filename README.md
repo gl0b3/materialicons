@@ -1,13 +1,13 @@
-# Material Icons based on Iron iconset
+# Material Icons based on Vaadin Iconset
 
-[Material Icons](https://github.com/gl0b3/materialicons) version 1.0.0 based on [Iron iconset](https://www.webcomponents.org/element/@polymer/iron-icons) used by [Polymer](https://github.com/Polymer/polymer) 3.
+[Material Icons](https://github.com/gl0b3/materialicons) version 2.0.1 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
 
 ## Usage
 
 ### Installation
 Install the `materialicons`:
 ```
-npm install @gl0b3/materialicons
+npm install @gl0b3/materialicons@2.0.1
 ```
 Once installed, import in your applicaiton:
 ```
@@ -15,7 +15,7 @@ import 'materialicons/materialicons.js';
 ```
 Add to your page:
 ```
-<iron-icon icon="materialicons:refresh"></iron-icon>
+<vaadin-icon icon="materialicons:refresh"></vaadin-icon>
 ```
 
 ## Contributing
