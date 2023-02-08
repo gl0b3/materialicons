@@ -1,13 +1,13 @@
 # Material Icons based on Vaadin Iconset
 
-[Material Icons](https://github.com/gl0b3/materialicons) version 2.0.0 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
+[Material Icons](https://github.com/gl0b3/materialicons) version 2.0.1 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
 
 ## Usage
 
 ### Installation
 Install the `materialicons`:
 ```
-npm install @gl0b3/materialicons@2.0.0
+npm install @gl0b3/materialicons@2.0.1
 ```
 Once installed, import in your applicaiton:
 ```
