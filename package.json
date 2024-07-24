@@ -1,7 +1,7 @@
 {
   "name": "@gl0b3/materialicons",
-  "version": "2.0.1",
-  "description": "Iron iconset based on MaterialIcons",
+  "description": "Vaadin iconset based on MaterialIcons",
+  "version": "3.0.2",
   "type": "module",
   "main": "materialicons.js",
   "module": "materialicons.js",
@@ -10,10 +10,11 @@
     "url": "git+https://github.com/gl0b3/materialicons.git"
   },
   "scripts": {
-    "start": "web-dev-server",
-    "format": "webmat"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "author": "Károly Kótay-Szabó",
+  "author": "Károly Kótay-Szabó aka gl0b3",
   "license": "Apache-2.0",
   "licenses": [
     {
@@ -26,11 +27,11 @@
   },
   "homepage": "https://github.com/gl0b3/materialcons#readme",
   "devDependencies": {
-    "@webcomponents/webcomponentsjs": "^2.0.0",
-    "wct-browser-legacy": "^1.0.1",
-    "webmat": "^0.2.2"
+    "vite": "^5.3.4",
+    "lit": "^3.1.4",
+    "@vaadin/icon": "^24.4.0"
   },
   "dependencies": {
-    "@vaadin/icon": "^23.3.0"
+    "lit": "^3.1.4"
   }
 }

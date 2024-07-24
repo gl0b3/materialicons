@@ -1,0 +1,57 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #eeeeee;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", "Noto", sans-serif;
+  line-height: 1.5;
+  min-height: 100vh;
+  background-color: #eeeeee;
+  color: #213547;
+}
+
+h2 {
+  margin: 10px;
+  color: #3382BF;
+}
+
+.container {
+  display: inline-block;
+  width: 10em;
+  margin: 1em 0.5em;
+  text-align: center;
+}
+
+.container > div {
+  margin-top: 0.5em;
+  color: black;
+  font-size: 10px;
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+}
+
+.container:hover > vaadin-icon {
+  fill: #3382BF;
+}
+
+.container:hover > div {
+  color: #3382BF;
+}
+
+vaadin-icon {
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+}
+

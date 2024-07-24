@@ -1,13 +1,13 @@
 # Material Icons based on Vaadin Iconset
 
-[Material Icons](https://github.com/gl0b3/materialicons) version 2.0.1 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
+[Material Icons](https://github.com/gl0b3/materialicons) version 3.0.2 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
 
 ## Usage
 
 ### Installation
 Install the `materialicons`:
 ```
-npm install @gl0b3/materialicons@2.0.1
+npm install @gl0b3/materialicons@3.0.2
 ```
 Once installed, import in your applicaiton:
 ```
@@ -29,13 +29,12 @@ the tests and demo locally:
 git clone https://github.com/gl0b3/materialicons
 cd materialicons
 npm install
-npm install -g polymer-cli
 ```
 
 ### Running the demo locally
 
 ```sh
-polymer build
-polymer serve --npm
-open http://127.0.0.1:8081/components/@gl0b3/materialicons/
+npm run build
+npm run preview
 ```
+Then open this URL in your browser: http://localhost:4173/
