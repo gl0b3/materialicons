@@ -1,6 +1,6 @@
 # Material Icons based on Iron iconset
 
-[Material Icons](https://github.com/gl0b3/materialicons) version 1.0.0 based on [Iron iconset](https://www.webcomponents.org/element/@polymer/iron-icons) used by [Polymer](https://github.com/Polymer/polymer) 3.
+[Material Icons](https://github.com/gl0b3/materialicons) version 1.0.1 based on [Iron iconset](https://www.webcomponents.org/element/@polymer/iron-icons) used by [Polymer](https://github.com/Polymer/polymer) 3.
 
 ## Usage
 
