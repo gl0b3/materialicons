@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/gl0b3/materialicons/issues"
   },
-  "homepage": "https://github.com/gl0b3/materialcons#readme",
+  "homepage": "https://github.com/gl0b3/materialicons#readme",
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^2.0.0",
     "wct-browser-legacy": "^1.0.1",
