@@ -1,17 +1,21 @@
 # Material Icons based on Vaadin Iconset
 
-[Material Icons](https://github.com/gl0b3/materialicons) version 2.0.2 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
+[Material Icons](https://github.com/gl0b3/materialicons) version 2.1.0 based on [Vaadin iconset](https://www.webcomponents.org/element/vaadin/vaadin-icons).
+
+Version: 2.1.0
+
+## Release notes
+This version use a newer icon list, 2170 icons compared to the preivous 1816 icons.
 
 ## Note
-
-If you previously used version 2.0.1, please switch to 2.0.2. Version 2.0.1 has been removed from the NPMJS registry and replaced by 2.0.2. The code remained the same, only the version number changed due to the republishing.
+If you previously used version 2.0.1, please switch to 2.0.2 or to the latest 2.x version. Version 2.0.1 has been removed from the NPMJS registry and replaced by 2.0.2. The code remained the same, only the version number changed due to the republishing.
 
 ## Usage
 
 ### Installation
 Install the `materialicons`:
 ```
-npm install @gl0b3/materialicons@2.0.2
+npm install @gl0b3/materialicons@2.1.0
 ```
 Once installed, import in your applicaiton:
 ```
@@ -43,3 +47,4 @@ polymer build
 polymer serve --npm
 open http://127.0.0.1:8081/components/@gl0b3/materialicons/
 ```
+If the site is not available, look at the polymer log or visit: http://[::1]:8081/components/@gl0b3/materialicons/ .
